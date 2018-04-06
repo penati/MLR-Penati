@@ -1,0 +1,21 @@
+---
+title: "Nome do aluno"
+output: 
+  html_document:
+    include:
+      after_body: footer.html
+---
+
+# **Apresentação do aluno**
+Essa é apenas uma página modelo com dados para serem modificados. 
+
+### *Fique à vontade para montar a página de apresentação* 
+
+Markdown is an authoring format that enables easy creation of dynamic documents, presentations, and reports from R. It combines the core syntax of [markdown](https://daringfireball.net/projects/markdown/) (an easy to write plain text format) with embedded R code chunks that are run so their output can be included in the final document. 
+
+### Seção 2 
+R Markdown documents are fully reproducible (they can be automatically regenerated whenever underlying R code or data changes).
+
+
+
+![](images/RMarkdownOutputFormats.png)

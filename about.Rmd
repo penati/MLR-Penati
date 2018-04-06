@@ -1,0 +1,22 @@
+---
+title: "Sobre"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+
+}
+
+</style>
+
+# About
+
+This is a template for Lecture "Data Science and Machine Learning" used by the students to present their reports[^1].
+
+[^1]:Prepared by Prof. Eduardo F. Silva - UFSC (DEPS)

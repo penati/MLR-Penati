@@ -1,0 +1,45 @@
+---
+title: "Resumo dos projetos"
+author: "Nome do Aluno"
+date: "5 de abril de 2018"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introdução
+
+Essa página apresenta um resumo dos projetos realizado na disciplina **"Análise de Dados e Introdução à Machine Learning"**.
+
+***
+
+## Projeto 1
+
+* Título: Análise Exploratória de Dados
+* Data:
+
+### Descrição
+Esse projeto tem como objetivo realizar uma análise exploratória no dados do .....
+
+### Relatório do Projeto
+
+Link no [Github](www.github.com): [Projeto 1](projetos/projeto1.html)
+
+***
+
+## Projeto 2
+
+* Título: Regressão linear
+* Data:
+
+### Descrição
+Esse projeto tem como objetivo realizar a previsão de ... usando um modelo de regressão linear .....
+
+### Relatório do Projeto
+
+Link no [Github](www.github.com): [Projeto 2](projetos/projeto1.html)
