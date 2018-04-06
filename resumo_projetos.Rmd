@@ -28,7 +28,7 @@ Esse projeto tem como objetivo realizar uma análise exploratória no dados do .
 
 ### Relatório do Projeto
 
-Link no [Github](www.github.com): [Projeto 1](projetos/projeto1.html)
+Link no [Github](<https://github.com/Efsilvaa>): [Projeto 1](projetos/projeto1.html)
 
 ***
 
@@ -42,4 +42,4 @@ Esse projeto tem como objetivo realizar a previsão de ... usando um modelo de r
 
 ### Relatório do Projeto
 
-Link no [Github](www.github.com): [Projeto 2](projetos/projeto1.html)
+Link no [Github](<https://github.com/Efsilvaa>): [Projeto 2](projetos/projeto1.html)
