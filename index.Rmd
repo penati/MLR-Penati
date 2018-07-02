@@ -1,5 +1,5 @@
 ---
-title: "Nome do aluno"
+title: "Filipe Peanti"
 output: 
   html_document:
     include:
